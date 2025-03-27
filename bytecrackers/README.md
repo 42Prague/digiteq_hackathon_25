@@ -9,5 +9,5 @@
  comprehensive assignment information, refer to the emoji_advanced_task.docx document.
  To run the evaluation type in command line:
 ```console
- python evaluate_main.py path_to_labels.csv
+ python evaluate_main.py data/train/labels.csv
 ```

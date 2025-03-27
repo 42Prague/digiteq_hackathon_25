@@ -1,0 +1,1446 @@
+Picture: emoji_0.jpg
+Emoji: crying Coordinates: (482, 276)
+Picture: emoji_1.jpg
+Picture: emoji_10.jpg
+Picture: emoji_100.jpg
+Emoji: crying Coordinates: (4, 443)
+Picture: emoji_1000.jpg
+Picture: emoji_1001.jpg
+Picture: emoji_1002.jpg
+Picture: emoji_1003.jpg
+Emoji: crying Coordinates: (249, 18)
+Picture: emoji_1004.jpg
+Picture: emoji_1005.jpg
+Picture: emoji_1006.jpg
+Picture: emoji_1007.jpg
+Picture: emoji_1008.jpg
+Picture: emoji_1009.jpg
+Emoji: crying Coordinates: (730, 538)
+Picture: emoji_101.jpg
+Picture: emoji_1010.jpg
+Picture: emoji_1011.jpg
+Picture: emoji_1012.jpg
+Picture: emoji_1013.jpg
+Picture: emoji_1014.jpg
+Picture: emoji_1015.jpg
+Picture: emoji_1016.jpg
+Picture: emoji_1017.jpg
+Emoji: crying Coordinates: (101, 144)
+Emoji: sad Coordinates: (251, 299)
+Picture: emoji_1018.jpg
+Picture: emoji_1019.jpg
+Picture: emoji_102.jpg
+Emoji: sad Coordinates: (4, 189)
+Picture: emoji_1020.jpg
+Picture: emoji_1021.jpg
+Picture: emoji_1022.jpg
+Picture: emoji_1023.jpg
+Picture: emoji_1024.jpg
+Picture: emoji_1025.jpg
+Picture: emoji_1026.jpg
+Picture: emoji_1027.jpg
+Picture: emoji_1028.jpg
+Picture: emoji_1029.jpg
+Emoji: crying Coordinates: (186, 374)
+Picture: emoji_103.jpg
+Emoji: crying Coordinates: (167, 156)
+Picture: emoji_1030.jpg
+Emoji: crying Coordinates: (341, 519)
+Picture: emoji_1031.jpg
+Picture: emoji_1032.jpg
+Picture: emoji_1033.jpg
+Emoji: sad Coordinates: (242, 290)
+Picture: emoji_1034.jpg
+Emoji: crying Coordinates: (29, 525)
+Picture: emoji_1035.jpg
+Picture: emoji_1036.jpg
+Picture: emoji_1037.jpg
+Picture: emoji_1038.jpg
+Picture: emoji_1039.jpg
+Emoji: crying Coordinates: (371, 134)
+Picture: emoji_104.jpg
+Picture: emoji_1040.jpg
+Picture: emoji_1041.jpg
+Picture: emoji_1042.jpg
+Emoji: crying Coordinates: (30, 368)
+Picture: emoji_1043.jpg
+Picture: emoji_1044.jpg
+Picture: emoji_1045.jpg
+Emoji: crying Coordinates: (599, 120)
+Picture: emoji_1046.jpg
+Emoji: sad Coordinates: (687, 175)
+Picture: emoji_1047.jpg
+Emoji: crying Coordinates: (611, 523)
+Picture: emoji_1048.jpg
+Picture: emoji_1049.jpg
+Picture: emoji_105.jpg
+Picture: emoji_1050.jpg
+Picture: emoji_1051.jpg
+Picture: emoji_1052.jpg
+Emoji: crying Coordinates: (269, 192)
+Picture: emoji_1053.jpg
+Picture: emoji_1054.jpg
+Picture: emoji_1055.jpg
+Emoji: crying Coordinates: (600, 512)
+Picture: emoji_1056.jpg
+Picture: emoji_1057.jpg
+Picture: emoji_1058.jpg
+Picture: emoji_1059.jpg
+Emoji: sad Coordinates: (711, 409)
+Picture: emoji_106.jpg
+Picture: emoji_1060.jpg
+Picture: emoji_1061.jpg
+Emoji: crying Coordinates: (732, 469)
+Picture: emoji_1062.jpg
+Picture: emoji_1063.jpg
+Emoji: crying Coordinates: (126, 229)
+Picture: emoji_1064.jpg
+Picture: emoji_1065.jpg
+Picture: emoji_1066.jpg
+Picture: emoji_1067.jpg
+Emoji: angry Coordinates: (213, 92)
+Picture: emoji_1068.jpg
+Picture: emoji_1069.jpg
+Emoji: crying Coordinates: (591, 55)
+Picture: emoji_107.jpg
+Emoji: crying Coordinates: (242, 130)
+Picture: emoji_1070.jpg
+Picture: emoji_1071.jpg
+Picture: emoji_1072.jpg
+Emoji: crying Coordinates: (598, 463)
+Picture: emoji_1073.jpg
+Picture: emoji_1074.jpg
+Emoji: crying Coordinates: (514, 509)
+Picture: emoji_1075.jpg
+Picture: emoji_1076.jpg
+Picture: emoji_1077.jpg
+Emoji: crying Coordinates: (379, 162)
+Picture: emoji_1078.jpg
+Picture: emoji_1079.jpg
+Picture: emoji_108.jpg
+Emoji: crying Coordinates: (365, 485)
+Picture: emoji_1080.jpg
+Picture: emoji_1081.jpg
+Picture: emoji_1082.jpg
+Picture: emoji_1083.jpg
+Picture: emoji_1084.jpg
+Picture: emoji_1085.jpg
+Picture: emoji_1086.jpg
+Picture: emoji_1087.jpg
+Picture: emoji_1088.jpg
+Picture: emoji_1089.jpg
+Picture: emoji_109.jpg
+Picture: emoji_1090.jpg
+Emoji: sad Coordinates: (401, 64)
+Picture: emoji_1091.jpg
+Picture: emoji_1092.jpg
+Picture: emoji_1093.jpg
+Emoji: crying Coordinates: (314, 238)
+Picture: emoji_1094.jpg
+Picture: emoji_1095.jpg
+Picture: emoji_1096.jpg
+Picture: emoji_1097.jpg
+Picture: emoji_1098.jpg
+Picture: emoji_1099.jpg
+Emoji: crying Coordinates: (602, 209)
+Picture: emoji_11.jpg
+Emoji: crying Coordinates: (539, 85)
+Picture: emoji_110.jpg
+Picture: emoji_1100.jpg
+Emoji: crying Coordinates: (151, 226)
+Picture: emoji_1101.jpg
+Emoji: crying Coordinates: (469, 107)
+Picture: emoji_1102.jpg
+Picture: emoji_1103.jpg
+Picture: emoji_1104.jpg
+Picture: emoji_1105.jpg
+Picture: emoji_1106.jpg
+Picture: emoji_1107.jpg
+Picture: emoji_1108.jpg
+Picture: emoji_1109.jpg
+Picture: emoji_111.jpg
+Picture: emoji_1110.jpg
+Emoji: crying Coordinates: (209, 301)
+Picture: emoji_1111.jpg
+Picture: emoji_1112.jpg
+Picture: emoji_1113.jpg
+Picture: emoji_1114.jpg
+Picture: emoji_1115.jpg
+Picture: emoji_1116.jpg
+Picture: emoji_1117.jpg
+Emoji: sad Coordinates: (182, 9)
+Picture: emoji_1118.jpg
+Picture: emoji_1119.jpg
+Emoji: sad Coordinates: (605, 477)
+Picture: emoji_112.jpg
+Picture: emoji_1120.jpg
+Picture: emoji_113.jpg
+Picture: emoji_114.jpg
+Picture: emoji_115.jpg
+Picture: emoji_116.jpg
+Picture: emoji_117.jpg
+Picture: emoji_118.jpg
+Picture: emoji_119.jpg
+Picture: emoji_12.jpg
+Emoji: crying Coordinates: (514, 370)
+Picture: emoji_120.jpg
+Picture: emoji_121.jpg
+Picture: emoji_122.jpg
+Emoji: crying Coordinates: (647, 71)
+Picture: emoji_123.jpg
+Picture: emoji_124.jpg
+Emoji: crying Coordinates: (245, 151)
+Picture: emoji_125.jpg
+Emoji: sad Coordinates: (466, 438)
+Picture: emoji_126.jpg
+Picture: emoji_127.jpg
+Emoji: sad Coordinates: (533, 226)
+Picture: emoji_128.jpg
+Picture: emoji_129.jpg
+Picture: emoji_13.jpg
+Picture: emoji_130.jpg
+Picture: emoji_131.jpg
+Emoji: sad Coordinates: (498, 382)
+Picture: emoji_132.jpg
+Picture: emoji_133.jpg
+Picture: emoji_134.jpg
+Picture: emoji_135.jpg
+Picture: emoji_136.jpg
+Picture: emoji_137.jpg
+Picture: emoji_138.jpg
+Picture: emoji_139.jpg
+Picture: emoji_14.jpg
+Picture: emoji_140.jpg
+Picture: emoji_141.jpg
+Picture: emoji_142.jpg
+Picture: emoji_143.jpg
+Picture: emoji_144.jpg
+Picture: emoji_145.jpg
+Picture: emoji_146.jpg
+Picture: emoji_147.jpg
+Picture: emoji_148.jpg
+Emoji: crying Coordinates: (513, 453)
+Picture: emoji_149.jpg
+Picture: emoji_15.jpg
+Emoji: crying Coordinates: (540, 112)
+Picture: emoji_150.jpg
+Picture: emoji_151.jpg
+Picture: emoji_152.jpg
+Picture: emoji_153.jpg
+Emoji: crying Coordinates: (28, 305)
+Picture: emoji_154.jpg
+Picture: emoji_155.jpg
+Picture: emoji_156.jpg
+Picture: emoji_157.jpg
+Picture: emoji_158.jpg
+Emoji: crying Coordinates: (496, 495)
+Picture: emoji_159.jpg
+Picture: emoji_16.jpg
+Emoji: crying Coordinates: (374, 406)
+Picture: emoji_160.jpg
+Emoji: crying Coordinates: (445, 516)
+Picture: emoji_161.jpg
+Picture: emoji_162.jpg
+Picture: emoji_163.jpg
+Picture: emoji_164.jpg
+Picture: emoji_165.jpg
+Picture: emoji_166.jpg
+Picture: emoji_167.jpg
+Picture: emoji_168.jpg
+Emoji: crying Coordinates: (30, 59)
+Picture: emoji_169.jpg
+Emoji: surprised Coordinates: (515, 189)
+Picture: emoji_17.jpg
+Picture: emoji_170.jpg
+Emoji: crying Coordinates: (398, 206)
+Picture: emoji_171.jpg
+Emoji: sad Coordinates: (716, 458)
+Picture: emoji_172.jpg
+Emoji: sad Coordinates: (514, 492)
+Picture: emoji_173.jpg
+Picture: emoji_174.jpg
+Emoji: crying Coordinates: (76, 355)
+Picture: emoji_175.jpg
+Emoji: crying Coordinates: (471, 287)
+Picture: emoji_176.jpg
+Picture: emoji_177.jpg
+Picture: emoji_178.jpg
+Picture: emoji_179.jpg
+Emoji: sad Coordinates: (735, 387)
+Picture: emoji_18.jpg
+Picture: emoji_180.jpg
+Emoji: crying Coordinates: (402, 143)
+Picture: emoji_181.jpg
+Picture: emoji_182.jpg
+Picture: emoji_183.jpg
+Picture: emoji_184.jpg
+Picture: emoji_185.jpg
+Picture: emoji_186.jpg
+Emoji: crying Coordinates: (148, 169)
+Picture: emoji_187.jpg
+Emoji: crying Coordinates: (645, 331)
+Picture: emoji_188.jpg
+Picture: emoji_189.jpg
+Picture: emoji_19.jpg
+Picture: emoji_190.jpg
+Picture: emoji_191.jpg
+Picture: emoji_192.jpg
+Picture: emoji_194.jpg
+Emoji: crying Coordinates: (384, 373)
+Picture: emoji_195.jpg
+Emoji: sad Coordinates: (23, 431)
+Picture: emoji_196.jpg
+Picture: emoji_197.jpg
+Picture: emoji_198.jpg
+Picture: emoji_199.jpg
+Picture: emoji_2.jpg
+Emoji: crying Coordinates: (228, 336)
+Picture: emoji_20.jpg
+Picture: emoji_200.jpg
+Emoji: sad Coordinates: (306, 35)
+Picture: emoji_201.jpg
+Emoji: crying Coordinates: (305, 501)
+Picture: emoji_202.jpg
+Picture: emoji_203.jpg
+Picture: emoji_204.jpg
+Picture: emoji_205.jpg
+Picture: emoji_206.jpg
+Picture: emoji_207.jpg
+Emoji: crying Coordinates: (545, 288)
+Picture: emoji_208.jpg
+Picture: emoji_209.jpg
+Emoji: crying Coordinates: (191, 365)
+Picture: emoji_21.jpg
+Picture: emoji_210.jpg
+Emoji: crying Coordinates: (434, 106)
+Emoji: surprised Coordinates: (315, 48)
+Picture: emoji_211.jpg
+Picture: emoji_212.jpg
+Picture: emoji_213.jpg
+Picture: emoji_214.jpg
+Picture: emoji_215.jpg
+Emoji: crying Coordinates: (618, 267)
+Picture: emoji_216.jpg
+Emoji: crying Coordinates: (144, 402)
+Picture: emoji_217.jpg
+Picture: emoji_218.jpg
+Emoji: sad Coordinates: (594, 164)
+Picture: emoji_219.jpg
+Emoji: crying Coordinates: (416, 328)
+Picture: emoji_22.jpg
+Emoji: crying Coordinates: (568, 455)
+Picture: emoji_220.jpg
+Picture: emoji_221.jpg
+Picture: emoji_222.jpg
+Picture: emoji_223.jpg
+Emoji: crying Coordinates: (344, 249)
+Picture: emoji_224.jpg
+Picture: emoji_225.jpg
+Picture: emoji_226.jpg
+Emoji: crying Coordinates: (396, 246)
+Picture: emoji_227.jpg
+Emoji: crying Coordinates: (657, 287)
+Picture: emoji_228.jpg
+Picture: emoji_229.jpg
+Emoji: crying Coordinates: (197, 121)
+Picture: emoji_23.jpg
+Picture: emoji_230.jpg
+Picture: emoji_231.jpg
+Emoji: crying Coordinates: (212, 437)
+Picture: emoji_232.jpg
+Picture: emoji_233.jpg
+Picture: emoji_234.jpg
+Picture: emoji_235.jpg
+Picture: emoji_236.jpg
+Emoji: crying Coordinates: (502, 363)
+Picture: emoji_237.jpg
+Picture: emoji_238.jpg
+Picture: emoji_239.jpg
+Emoji: sad Coordinates: (301, 451)
+Picture: emoji_24.jpg
+Emoji: sad Coordinates: (42, 126)
+Picture: emoji_240.jpg
+Picture: emoji_241.jpg
+Emoji: crying Coordinates: (63, 294)
+Picture: emoji_242.jpg
+Emoji: crying Coordinates: (643, 200)
+Picture: emoji_243.jpg
+Emoji: surprised Coordinates: (263, 395)
+Picture: emoji_244.jpg
+Emoji: sad Coordinates: (139, 80)
+Picture: emoji_245.jpg
+Emoji: crying Coordinates: (47, 264)
+Picture: emoji_246.jpg
+Emoji: crying Coordinates: (575, 525)
+Picture: emoji_247.jpg
+Picture: emoji_248.jpg
+Emoji: surprised Coordinates: (-1, 500)
+Picture: emoji_249.jpg
+Picture: emoji_25.jpg
+Picture: emoji_250.jpg
+Picture: emoji_251.jpg
+Emoji: surprised Coordinates: (65, 4)
+Picture: emoji_252.jpg
+Picture: emoji_253.jpg
+Picture: emoji_254.jpg
+Picture: emoji_255.jpg
+Emoji: crying Coordinates: (339, 101)
+Picture: emoji_256.jpg
+Picture: emoji_257.jpg
+Picture: emoji_258.jpg
+Picture: emoji_259.jpg
+Picture: emoji_26.jpg
+Picture: emoji_260.jpg
+Picture: emoji_261.jpg
+Picture: emoji_262.jpg
+Picture: emoji_263.jpg
+Picture: emoji_264.jpg
+Picture: emoji_265.jpg
+Picture: emoji_266.jpg
+Picture: emoji_267.jpg
+Emoji: crying Coordinates: (179, 179)
+Picture: emoji_268.jpg
+Picture: emoji_269.jpg
+Emoji: surprised Coordinates: (221, 243)
+Picture: emoji_27.jpg
+Emoji: crying Coordinates: (558, 343)
+Picture: emoji_270.jpg
+Picture: emoji_271.jpg
+Emoji: crying Coordinates: (726, 529)
+Picture: emoji_272.jpg
+Picture: emoji_273.jpg
+Picture: emoji_274.jpg
+Picture: emoji_275.jpg
+Picture: emoji_276.jpg
+Emoji: crying Coordinates: (377, 118)
+Picture: emoji_277.jpg
+Picture: emoji_278.jpg
+Picture: emoji_279.jpg
+Picture: emoji_28.jpg
+Picture: emoji_280.jpg
+Picture: emoji_281.jpg
+Picture: emoji_282.jpg
+Picture: emoji_283.jpg
+Emoji: crying Coordinates: (593, 67)
+Picture: emoji_284.jpg
+Emoji: sad Coordinates: (165, 452)
+Picture: emoji_285.jpg
+Emoji: sad Coordinates: (420, 292)
+Picture: emoji_286.jpg
+Picture: emoji_287.jpg
+Emoji: sad Coordinates: (353, 153)
+Picture: emoji_288.jpg
+Emoji: sad Coordinates: (378, 229)
+Picture: emoji_289.jpg
+Emoji: crying Coordinates: (424, 266)
+Picture: emoji_29.jpg
+Picture: emoji_290.jpg
+Picture: emoji_291.jpg
+Picture: emoji_292.jpg
+Picture: emoji_293.jpg
+Emoji: crying Coordinates: (92, 292)
+Picture: emoji_294.jpg
+Picture: emoji_295.jpg
+Picture: emoji_296.jpg
+Emoji: sad Coordinates: (631, 456)
+Picture: emoji_297.jpg
+Emoji: angry Coordinates: (263, 96)
+Picture: emoji_298.jpg
+Picture: emoji_299.jpg
+Picture: emoji_3.jpg
+Emoji: sad Coordinates: (135, 123)
+Picture: emoji_30.jpg
+Picture: emoji_300.jpg
+Picture: emoji_301.jpg
+Picture: emoji_302.jpg
+Picture: emoji_303.jpg
+Picture: emoji_304.jpg
+Picture: emoji_305.jpg
+Picture: emoji_306.jpg
+Emoji: crying Coordinates: (349, 397)
+Picture: emoji_307.jpg
+Picture: emoji_308.jpg
+Picture: emoji_309.jpg
+Picture: emoji_31.jpg
+Picture: emoji_310.jpg
+Picture: emoji_311.jpg
+Emoji: crying Coordinates: (307, 353)
+Picture: emoji_312.jpg
+Picture: emoji_313.jpg
+Picture: emoji_314.jpg
+Picture: emoji_315.jpg
+Emoji: sad Coordinates: (123, 397)
+Picture: emoji_316.jpg
+Emoji: sad Coordinates: (243, 440)
+Picture: emoji_317.jpg
+Picture: emoji_318.jpg
+Picture: emoji_319.jpg
+Picture: emoji_32.jpg
+Picture: emoji_320.jpg
+Picture: emoji_321.jpg
+Picture: emoji_322.jpg
+Emoji: crying Coordinates: (616, 226)
+Picture: emoji_323.jpg
+Emoji: crying Coordinates: (434, 170)
+Picture: emoji_324.jpg
+Picture: emoji_325.jpg
+Picture: emoji_326.jpg
+Picture: emoji_327.jpg
+Emoji: crying Coordinates: (212, 242)
+Picture: emoji_328.jpg
+Picture: emoji_329.jpg
+Picture: emoji_33.jpg
+Picture: emoji_330.jpg
+Emoji: crying Coordinates: (343, 14)
+Picture: emoji_331.jpg
+Picture: emoji_332.jpg
+Emoji: sad Coordinates: (701, 498)
+Picture: emoji_333.jpg
+Picture: emoji_334.jpg
+Picture: emoji_335.jpg
+Picture: emoji_336.jpg
+Picture: emoji_337.jpg
+Emoji: crying Coordinates: (175, 369)
+Picture: emoji_338.jpg
+Picture: emoji_339.jpg
+Picture: emoji_34.jpg
+Picture: emoji_340.jpg
+Emoji: crying Coordinates: (653, 66)
+Picture: emoji_341.jpg
+Picture: emoji_342.jpg
+Picture: emoji_343.jpg
+Picture: emoji_344.jpg
+Picture: emoji_345.jpg
+Picture: emoji_346.jpg
+Picture: emoji_347.jpg
+Picture: emoji_348.jpg
+Emoji: crying Coordinates: (731, 174)
+Picture: emoji_349.jpg
+Picture: emoji_35.jpg
+Picture: emoji_350.jpg
+Picture: emoji_351.jpg
+Picture: emoji_352.jpg
+Picture: emoji_353.jpg
+Picture: emoji_354.jpg
+Emoji: crying Coordinates: (396, 479)
+Picture: emoji_355.jpg
+Picture: emoji_356.jpg
+Picture: emoji_357.jpg
+Picture: emoji_358.jpg
+Picture: emoji_359.jpg
+Emoji: crying Coordinates: (475, 112)
+Picture: emoji_36.jpg
+Emoji: crying Coordinates: (352, 466)
+Picture: emoji_360.jpg
+Picture: emoji_361.jpg
+Emoji: crying Coordinates: (522, 30)
+Picture: emoji_362.jpg
+Picture: emoji_363.jpg
+Picture: emoji_364.jpg
+Picture: emoji_365.jpg
+Picture: emoji_366.jpg
+Emoji: crying Coordinates: (379, 237)
+Picture: emoji_367.jpg
+Emoji: surprised Coordinates: (118, 112)
+Picture: emoji_368.jpg
+Picture: emoji_369.jpg
+Picture: emoji_37.jpg
+Picture: emoji_370.jpg
+Emoji: angry Coordinates: (275, 488)
+Picture: emoji_371.jpg
+Picture: emoji_372.jpg
+Emoji: sad Coordinates: (637, 57)
+Picture: emoji_373.jpg
+Picture: emoji_374.jpg
+Picture: emoji_375.jpg
+Emoji: crying Coordinates: (589, 480)
+Picture: emoji_376.jpg
+Picture: emoji_377.jpg
+Emoji: sad Coordinates: (454, 368)
+Picture: emoji_378.jpg
+Picture: emoji_379.jpg
+Picture: emoji_38.jpg
+Picture: emoji_380.jpg
+Emoji: sad Coordinates: (329, 484)
+Picture: emoji_381.jpg
+Picture: emoji_382.jpg
+Emoji: crying Coordinates: (697, 89)
+Picture: emoji_383.jpg
+Emoji: crying Coordinates: (271, 232)
+Picture: emoji_384.jpg
+Picture: emoji_385.jpg
+Picture: emoji_386.jpg
+Picture: emoji_387.jpg
+Picture: emoji_388.jpg
+Picture: emoji_389.jpg
+Picture: emoji_39.jpg
+Emoji: crying Coordinates: (722, 219)
+Picture: emoji_390.jpg
+Picture: emoji_391.jpg
+Picture: emoji_392.jpg
+Picture: emoji_393.jpg
+Picture: emoji_394.jpg
+Picture: emoji_395.jpg
+Picture: emoji_396.jpg
+Picture: emoji_397.jpg
+Picture: emoji_398.jpg
+Picture: emoji_399.jpg
+Picture: emoji_4.jpg
+Picture: emoji_40.jpg
+Picture: emoji_400.jpg
+Picture: emoji_401.jpg
+Picture: emoji_402.jpg
+Picture: emoji_403.jpg
+Emoji: sad Coordinates: (618, 129)
+Picture: emoji_404.jpg
+Picture: emoji_405.jpg
+Picture: emoji_406.jpg
+Emoji: crying Coordinates: (170, 477)
+Picture: emoji_407.jpg
+Emoji: crying Coordinates: (634, 143)
+Picture: emoji_408.jpg
+Picture: emoji_409.jpg
+Emoji: sad Coordinates: (358, 375)
+Picture: emoji_41.jpg
+Picture: emoji_410.jpg
+Picture: emoji_411.jpg
+Picture: emoji_412.jpg
+Picture: emoji_413.jpg
+Picture: emoji_414.jpg
+Emoji: crying Coordinates: (444, 379)
+Picture: emoji_415.jpg
+Picture: emoji_416.jpg
+Picture: emoji_417.jpg
+Emoji: angry Coordinates: (108, 66)
+Picture: emoji_418.jpg
+Picture: emoji_419.jpg
+Picture: emoji_42.jpg
+Picture: emoji_420.jpg
+Picture: emoji_421.jpg
+Picture: emoji_422.jpg
+Picture: emoji_423.jpg
+Emoji: sad Coordinates: (237, 161)
+Picture: emoji_424.jpg
+Picture: emoji_425.jpg
+Picture: emoji_426.jpg
+Picture: emoji_427.jpg
+Emoji: sad Coordinates: (591, 430)
+Picture: emoji_428.jpg
+Emoji: sad Coordinates: (21, 279)
+Picture: emoji_429.jpg
+Picture: emoji_43.jpg
+Picture: emoji_430.jpg
+Picture: emoji_431.jpg
+Emoji: sad Coordinates: (611, 331)
+Picture: emoji_432.jpg
+Emoji: crying Coordinates: (550, 310)
+Picture: emoji_433.jpg
+Picture: emoji_434.jpg
+Picture: emoji_435.jpg
+Picture: emoji_436.jpg
+Picture: emoji_437.jpg
+Picture: emoji_438.jpg
+Picture: emoji_439.jpg
+Emoji: crying Coordinates: (193, 403)
+Picture: emoji_44.jpg
+Emoji: angry Coordinates: (507, 359)
+Picture: emoji_440.jpg
+Emoji: sad Coordinates: (480, 31)
+Picture: emoji_441.jpg
+Emoji: angry Coordinates: (644, 502)
+Picture: emoji_442.jpg
+Picture: emoji_443.jpg
+Picture: emoji_444.jpg
+Emoji: sad Coordinates: (594, 123)
+Picture: emoji_445.jpg
+Emoji: crying Coordinates: (385, 44)
+Picture: emoji_446.jpg
+Picture: emoji_447.jpg
+Picture: emoji_448.jpg
+Picture: emoji_449.jpg
+Picture: emoji_45.jpg
+Emoji: crying Coordinates: (80, 245)
+Picture: emoji_450.jpg
+Picture: emoji_451.jpg
+Picture: emoji_452.jpg
+Picture: emoji_453.jpg
+Picture: emoji_454.jpg
+Picture: emoji_455.jpg
+Emoji: crying Coordinates: (714, 270)
+Picture: emoji_456.jpg
+Picture: emoji_457.jpg
+Picture: emoji_458.jpg
+Emoji: crying Coordinates: (340, 534)
+Picture: emoji_459.jpg
+Picture: emoji_46.jpg
+Picture: emoji_460.jpg
+Picture: emoji_461.jpg
+Picture: emoji_462.jpg
+Picture: emoji_463.jpg
+Picture: emoji_464.jpg
+Picture: emoji_465.jpg
+Picture: emoji_466.jpg
+Emoji: crying Coordinates: (527, 521)
+Picture: emoji_467.jpg
+Picture: emoji_468.jpg
+Picture: emoji_469.jpg
+Picture: emoji_47.jpg
+Picture: emoji_470.jpg
+Picture: emoji_471.jpg
+Emoji: crying Coordinates: (431, 495)
+Picture: emoji_472.jpg
+Picture: emoji_473.jpg
+Emoji: sad Coordinates: (470, 188)
+Picture: emoji_474.jpg
+Picture: emoji_475.jpg
+Picture: emoji_476.jpg
+Emoji: sad Coordinates: (394, 365)
+Picture: emoji_477.jpg
+Emoji: sad Coordinates: (284, 301)
+Picture: emoji_478.jpg
+Picture: emoji_479.jpg
+Picture: emoji_48.jpg
+Picture: emoji_480.jpg
+Picture: emoji_481.jpg
+Emoji: crying Coordinates: (57, 193)
+Picture: emoji_482.jpg
+Picture: emoji_483.jpg
+Picture: emoji_484.jpg
+Picture: emoji_485.jpg
+Picture: emoji_486.jpg
+Picture: emoji_487.jpg
+Picture: emoji_488.jpg
+Picture: emoji_489.jpg
+Emoji: crying Coordinates: (628, 63)
+Picture: emoji_49.jpg
+Emoji: crying Coordinates: (317, 265)
+Picture: emoji_490.jpg
+Picture: emoji_491.jpg
+Picture: emoji_492.jpg
+Picture: emoji_493.jpg
+Picture: emoji_494.jpg
+Emoji: crying Coordinates: (520, 456)
+Picture: emoji_495.jpg
+Emoji: angry Coordinates: (702, 80)
+Picture: emoji_496.jpg
+Emoji: crying Coordinates: (319, 309)
+Picture: emoji_497.jpg
+Picture: emoji_498.jpg
+Picture: emoji_499.jpg
+Picture: emoji_5.jpg
+Emoji: crying Coordinates: (601, 312)
+Picture: emoji_50.jpg
+Picture: emoji_500.jpg
+Picture: emoji_501.jpg
+Emoji: sad Coordinates: (532, 358)
+Picture: emoji_502.jpg
+Picture: emoji_503.jpg
+Picture: emoji_504.jpg
+Emoji: crying Coordinates: (22, 58)
+Picture: emoji_505.jpg
+Picture: emoji_506.jpg
+Picture: emoji_507.jpg
+Picture: emoji_508.jpg
+Emoji: sad Coordinates: (163, 6)
+Picture: emoji_509.jpg
+Picture: emoji_51.jpg
+Picture: emoji_510.jpg
+Picture: emoji_511.jpg
+Emoji: crying Coordinates: (310, 277)
+Picture: emoji_512.jpg
+Picture: emoji_513.jpg
+Picture: emoji_514.jpg
+Picture: emoji_515.jpg
+Emoji: surprised Coordinates: (430, 104)
+Picture: emoji_516.jpg
+Picture: emoji_517.jpg
+Picture: emoji_518.jpg
+Picture: emoji_519.jpg
+Picture: emoji_52.jpg
+Emoji: crying Coordinates: (263, 94)
+Picture: emoji_520.jpg
+Picture: emoji_521.jpg
+Emoji: crying Coordinates: (410, 195)
+Picture: emoji_522.jpg
+Emoji: sad Coordinates: (429, 360)
+Picture: emoji_523.jpg
+Picture: emoji_524.jpg
+Picture: emoji_525.jpg
+Emoji: sad Coordinates: (461, 72)
+Picture: emoji_526.jpg
+Picture: emoji_527.jpg
+Emoji: crying Coordinates: (223, 287)
+Picture: emoji_528.jpg
+Picture: emoji_529.jpg
+Picture: emoji_53.jpg
+Picture: emoji_530.jpg
+Picture: emoji_531.jpg
+Picture: emoji_532.jpg
+Picture: emoji_533.jpg
+Picture: emoji_534.jpg
+Picture: emoji_535.jpg
+Emoji: crying Coordinates: (716, 333)
+Picture: emoji_536.jpg
+Picture: emoji_537.jpg
+Picture: emoji_538.jpg
+Picture: emoji_539.jpg
+Picture: emoji_54.jpg
+Emoji: sad Coordinates: (534, 62)
+Picture: emoji_540.jpg
+Picture: emoji_541.jpg
+Picture: emoji_542.jpg
+Picture: emoji_543.jpg
+Picture: emoji_544.jpg
+Picture: emoji_545.jpg
+Picture: emoji_546.jpg
+Picture: emoji_547.jpg
+Picture: emoji_548.jpg
+Emoji: crying Coordinates: (304, 178)
+Picture: emoji_549.jpg
+Picture: emoji_55.jpg
+Emoji: crying Coordinates: (471, 167)
+Picture: emoji_550.jpg
+Picture: emoji_551.jpg
+Picture: emoji_552.jpg
+Picture: emoji_553.jpg
+Picture: emoji_554.jpg
+Picture: emoji_555.jpg
+Emoji: crying Coordinates: (649, 460)
+Picture: emoji_556.jpg
+Picture: emoji_557.jpg
+Picture: emoji_558.jpg
+Emoji: crying Coordinates: (89, 171)
+Picture: emoji_559.jpg
+Picture: emoji_56.jpg
+Picture: emoji_560.jpg
+Picture: emoji_561.jpg
+Picture: emoji_562.jpg
+Picture: emoji_563.jpg
+Picture: emoji_564.jpg
+Picture: emoji_565.jpg
+Picture: emoji_566.jpg
+Emoji: crying Coordinates: (72, 220)
+Picture: emoji_567.jpg
+Emoji: crying Coordinates: (391, 159)
+Picture: emoji_568.jpg
+Picture: emoji_569.jpg
+Picture: emoji_57.jpg
+Emoji: crying Coordinates: (164, 426)
+Picture: emoji_570.jpg
+Emoji: crying Coordinates: (338, 51)
+Picture: emoji_571.jpg
+Picture: emoji_572.jpg
+Picture: emoji_573.jpg
+Picture: emoji_574.jpg
+Picture: emoji_575.jpg
+Emoji: crying Coordinates: (22, 531)
+Picture: emoji_576.jpg
+Picture: emoji_577.jpg
+Picture: emoji_578.jpg
+Emoji: sad Coordinates: (727, 94)
+Picture: emoji_579.jpg
+Picture: emoji_58.jpg
+Emoji: angry Coordinates: (350, 436)
+Picture: emoji_580.jpg
+Picture: emoji_581.jpg
+Picture: emoji_582.jpg
+Picture: emoji_583.jpg
+Picture: emoji_584.jpg
+Picture: emoji_585.jpg
+Emoji: crying Coordinates: (410, 139)
+Picture: emoji_586.jpg
+Picture: emoji_587.jpg
+Picture: emoji_588.jpg
+Picture: emoji_589.jpg
+Picture: emoji_59.jpg
+Picture: emoji_590.jpg
+Picture: emoji_591.jpg
+Emoji: crying Coordinates: (330, 444)
+Picture: emoji_592.jpg
+Picture: emoji_593.jpg
+Picture: emoji_594.jpg
+Picture: emoji_595.jpg
+Picture: emoji_596.jpg
+Emoji: crying Coordinates: (62, 50)
+Picture: emoji_597.jpg
+Picture: emoji_598.jpg
+Picture: emoji_599.jpg
+Picture: emoji_6.jpg
+Picture: emoji_60.jpg
+Picture: emoji_600.jpg
+Picture: emoji_601.jpg
+Emoji: sad Coordinates: (133, 310)
+Picture: emoji_602.jpg
+Emoji: crying Coordinates: (15, 322)
+Picture: emoji_603.jpg
+Picture: emoji_604.jpg
+Picture: emoji_605.jpg
+Picture: emoji_606.jpg
+Picture: emoji_607.jpg
+Picture: emoji_608.jpg
+Emoji: sad Coordinates: (212, 319)
+Picture: emoji_609.jpg
+Picture: emoji_61.jpg
+Emoji: crying Coordinates: (453, 29)
+Picture: emoji_610.jpg
+Picture: emoji_611.jpg
+Emoji: crying Coordinates: (415, 363)
+Picture: emoji_612.jpg
+Picture: emoji_613.jpg
+Emoji: angry Coordinates: (116, 388)
+Picture: emoji_614.jpg
+Emoji: crying Coordinates: (159, 58)
+Picture: emoji_615.jpg
+Picture: emoji_616.jpg
+Picture: emoji_617.jpg
+Picture: emoji_618.jpg
+Picture: emoji_619.jpg
+Picture: emoji_62.jpg
+Picture: emoji_620.jpg
+Picture: emoji_621.jpg
+Picture: emoji_622.jpg
+Emoji: crying Coordinates: (591, 201)
+Picture: emoji_623.jpg
+Emoji: crying Coordinates: (660, 24)
+Picture: emoji_624.jpg
+Emoji: crying Coordinates: (512, 133)
+Picture: emoji_625.jpg
+Picture: emoji_626.jpg
+Emoji: crying Coordinates: (279, 23)
+Picture: emoji_627.jpg
+Emoji: sad Coordinates: (407, 397)
+Picture: emoji_628.jpg
+Picture: emoji_629.jpg
+Picture: emoji_63.jpg
+Picture: emoji_630.jpg
+Emoji: crying Coordinates: (263, 527)
+Picture: emoji_631.jpg
+Emoji: crying Coordinates: (94, 258)
+Picture: emoji_632.jpg
+Picture: emoji_633.jpg
+Picture: emoji_634.jpg
+Emoji: crying Coordinates: (642, 164)
+Picture: emoji_635.jpg
+Picture: emoji_636.jpg
+Picture: emoji_637.jpg
+Picture: emoji_638.jpg
+Picture: emoji_639.jpg
+Picture: emoji_64.jpg
+Picture: emoji_640.jpg
+Emoji: crying Coordinates: (708, 65)
+Picture: emoji_641.jpg
+Picture: emoji_642.jpg
+Emoji: crying Coordinates: (695, 81)
+Picture: emoji_643.jpg
+Picture: emoji_644.jpg
+Picture: emoji_645.jpg
+Picture: emoji_646.jpg
+Picture: emoji_647.jpg
+Picture: emoji_648.jpg
+Emoji: crying Coordinates: (737, 517)
+Picture: emoji_649.jpg
+Picture: emoji_65.jpg
+Picture: emoji_650.jpg
+Picture: emoji_651.jpg
+Emoji: crying Coordinates: (38, 281)
+Picture: emoji_652.jpg
+Picture: emoji_653.jpg
+Picture: emoji_654.jpg
+Picture: emoji_655.jpg
+Picture: emoji_656.jpg
+Picture: emoji_657.jpg
+Picture: emoji_658.jpg
+Emoji: crying Coordinates: (715, 238)
+Picture: emoji_659.jpg
+Picture: emoji_66.jpg
+Picture: emoji_660.jpg
+Picture: emoji_661.jpg
+Emoji: crying Coordinates: (271, 83)
+Picture: emoji_662.jpg
+Picture: emoji_663.jpg
+Emoji: crying Coordinates: (557, 299)
+Picture: emoji_664.jpg
+Emoji: crying Coordinates: (288, 78)
+Picture: emoji_665.jpg
+Emoji: sad Coordinates: (133, 497)
+Picture: emoji_666.jpg
+Emoji: crying Coordinates: (129, 445)
+Picture: emoji_667.jpg
+Picture: emoji_668.jpg
+Picture: emoji_669.jpg
+Picture: emoji_67.jpg
+Picture: emoji_670.jpg
+Emoji: crying Coordinates: (270, 148)
+Picture: emoji_671.jpg
+Picture: emoji_672.jpg
+Picture: emoji_673.jpg
+Picture: emoji_674.jpg
+Picture: emoji_675.jpg
+Picture: emoji_676.jpg
+Picture: emoji_677.jpg
+Picture: emoji_678.jpg
+Emoji: crying Coordinates: (449, 117)
+Picture: emoji_679.jpg
+Picture: emoji_68.jpg
+Emoji: crying Coordinates: (16, 194)
+Picture: emoji_680.jpg
+Picture: emoji_681.jpg
+Picture: emoji_682.jpg
+Picture: emoji_683.jpg
+Picture: emoji_684.jpg
+Picture: emoji_685.jpg
+Emoji: crying Coordinates: (623, 234)
+Picture: emoji_686.jpg
+Picture: emoji_687.jpg
+Picture: emoji_688.jpg
+Picture: emoji_689.jpg
+Picture: emoji_69.jpg
+Emoji: sad Coordinates: (201, 519)
+Picture: emoji_690.jpg
+Picture: emoji_691.jpg
+Picture: emoji_692.jpg
+Picture: emoji_693.jpg
+Picture: emoji_694.jpg
+Emoji: crying Coordinates: (546, 60)
+Picture: emoji_695.jpg
+Picture: emoji_696.jpg
+Picture: emoji_697.jpg
+Picture: emoji_698.jpg
+Picture: emoji_699.jpg
+Picture: emoji_7.jpg
+Emoji: crying Coordinates: (259, 392)
+Picture: emoji_70.jpg
+Picture: emoji_700.jpg
+Picture: emoji_701.jpg
+Emoji: crying Coordinates: (98, 316)
+Picture: emoji_702.jpg
+Emoji: crying Coordinates: (39, 130)
+Picture: emoji_703.jpg
+Picture: emoji_704.jpg
+Picture: emoji_705.jpg
+Picture: emoji_706.jpg
+Emoji: crying Coordinates: (414, 136)
+Picture: emoji_707.jpg
+Picture: emoji_708.jpg
+Picture: emoji_709.jpg
+Emoji: crying Coordinates: (387, 389)
+Picture: emoji_71.jpg
+Picture: emoji_710.jpg
+Picture: emoji_711.jpg
+Picture: emoji_712.jpg
+Emoji: crying Coordinates: (604, 86)
+Picture: emoji_713.jpg
+Picture: emoji_714.jpg
+Emoji: crying Coordinates: (409, 182)
+Picture: emoji_715.jpg
+Picture: emoji_716.jpg
+Picture: emoji_717.jpg
+Picture: emoji_718.jpg
+Emoji: crying Coordinates: (277, 440)
+Picture: emoji_719.jpg
+Emoji: sad Coordinates: (628, 103)
+Picture: emoji_72.jpg
+Picture: emoji_720.jpg
+Picture: emoji_721.jpg
+Picture: emoji_722.jpg
+Emoji: crying Coordinates: (39, 235)
+Picture: emoji_723.jpg
+Emoji: crying Coordinates: (460, 318)
+Picture: emoji_724.jpg
+Emoji: crying Coordinates: (149, 202)
+Picture: emoji_725.jpg
+Emoji: crying Coordinates: (565, 282)
+Picture: emoji_726.jpg
+Picture: emoji_727.jpg
+Picture: emoji_728.jpg
+Emoji: sad Coordinates: (537, 259)
+Picture: emoji_729.jpg
+Picture: emoji_73.jpg
+Picture: emoji_730.jpg
+Picture: emoji_731.jpg
+Emoji: sad Coordinates: (536, 106)
+Picture: emoji_732.jpg
+Emoji: crying Coordinates: (567, 100)
+Picture: emoji_733.jpg
+Emoji: sad Coordinates: (274, 359)
+Picture: emoji_734.jpg
+Emoji: sad Coordinates: (564, 506)
+Picture: emoji_735.jpg
+Picture: emoji_736.jpg
+Picture: emoji_737.jpg
+Emoji: crying Coordinates: (217, 244)
+Picture: emoji_738.jpg
+Emoji: crying Coordinates: (312, 35)
+Picture: emoji_739.jpg
+Picture: emoji_74.jpg
+Picture: emoji_740.jpg
+Picture: emoji_741.jpg
+Picture: emoji_742.jpg
+Emoji: sad Coordinates: (314, 338)
+Picture: emoji_743.jpg
+Picture: emoji_744.jpg
+Picture: emoji_745.jpg
+Picture: emoji_746.jpg
+Emoji: sad Coordinates: (183, 269)
+Picture: emoji_747.jpg
+Emoji: sad Coordinates: (409, 391)
+Picture: emoji_748.jpg
+Picture: emoji_749.jpg
+Picture: emoji_75.jpg
+Picture: emoji_750.jpg
+Picture: emoji_751.jpg
+Picture: emoji_752.jpg
+Picture: emoji_753.jpg
+Emoji: crying Coordinates: (562, 355)
+Picture: emoji_754.jpg
+Picture: emoji_755.jpg
+Picture: emoji_756.jpg
+Emoji: crying Coordinates: (330, 208)
+Picture: emoji_757.jpg
+Picture: emoji_758.jpg
+Picture: emoji_759.jpg
+Picture: emoji_76.jpg
+Picture: emoji_760.jpg
+Emoji: crying Coordinates: (551, 441)
+Picture: emoji_761.jpg
+Emoji: crying Coordinates: (375, 367)
+Picture: emoji_762.jpg
+Picture: emoji_763.jpg
+Picture: emoji_764.jpg
+Picture: emoji_765.jpg
+Emoji: crying Coordinates: (166, 512)
+Picture: emoji_766.jpg
+Picture: emoji_767.jpg
+Picture: emoji_768.jpg
+Emoji: crying Coordinates: (342, 181)
+Picture: emoji_769.jpg
+Picture: emoji_77.jpg
+Picture: emoji_770.jpg
+Picture: emoji_771.jpg
+Picture: emoji_772.jpg
+Picture: emoji_773.jpg
+Picture: emoji_774.jpg
+Picture: emoji_775.jpg
+Picture: emoji_776.jpg
+Picture: emoji_777.jpg
+Picture: emoji_778.jpg
+Picture: emoji_779.jpg
+Picture: emoji_78.jpg
+Picture: emoji_780.jpg
+Emoji: crying Coordinates: (138, 462)
+Picture: emoji_781.jpg
+Emoji: crying Coordinates: (365, 432)
+Picture: emoji_782.jpg
+Emoji: crying Coordinates: (178, 234)
+Picture: emoji_783.jpg
+Picture: emoji_784.jpg
+Emoji: crying Coordinates: (289, 195)
+Picture: emoji_785.jpg
+Picture: emoji_786.jpg
+Picture: emoji_787.jpg
+Picture: emoji_788.jpg
+Emoji: sad Coordinates: (100, 42)
+Picture: emoji_789.jpg
+Emoji: crying Coordinates: (446, 244)
+Picture: emoji_79.jpg
+Picture: emoji_790.jpg
+Picture: emoji_791.jpg
+Picture: emoji_792.jpg
+Picture: emoji_793.jpg
+Picture: emoji_794.jpg
+Picture: emoji_795.jpg
+Emoji: angry Coordinates: (281, 10)
+Picture: emoji_796.jpg
+Picture: emoji_797.jpg
+Emoji: surprised Coordinates: (708, 83)
+Picture: emoji_798.jpg
+Picture: emoji_799.jpg
+Emoji: sad Coordinates: (32, 476)
+Picture: emoji_8.jpg
+Picture: emoji_80.jpg
+Emoji: crying Coordinates: (330, 317)
+Picture: emoji_800.jpg
+Picture: emoji_801.jpg
+Picture: emoji_802.jpg
+Emoji: crying Coordinates: (595, 99)
+Picture: emoji_803.jpg
+Picture: emoji_804.jpg
+Emoji: crying Coordinates: (479, 241)
+Picture: emoji_805.jpg
+Picture: emoji_806.jpg
+Picture: emoji_807.jpg
+Picture: emoji_808.jpg
+Picture: emoji_809.jpg
+Picture: emoji_81.jpg
+Picture: emoji_810.jpg
+Picture: emoji_811.jpg
+Picture: emoji_812.jpg
+Emoji: crying Coordinates: (633, 141)
+Picture: emoji_813.jpg
+Picture: emoji_814.jpg
+Picture: emoji_815.jpg
+Picture: emoji_816.jpg
+Emoji: sad Coordinates: (691, 338)
+Picture: emoji_817.jpg
+Emoji: crying Coordinates: (257, 64)
+Picture: emoji_818.jpg
+Picture: emoji_819.jpg
+Picture: emoji_82.jpg
+Picture: emoji_820.jpg
+Picture: emoji_821.jpg
+Picture: emoji_822.jpg
+Emoji: crying Coordinates: (380, 366)
+Picture: emoji_823.jpg
+Picture: emoji_824.jpg
+Picture: emoji_825.jpg
+Emoji: crying Coordinates: (145, 495)
+Picture: emoji_826.jpg
+Emoji: crying Coordinates: (342, 175)
+Picture: emoji_827.jpg
+Picture: emoji_828.jpg
+Picture: emoji_829.jpg
+Emoji: crying Coordinates: (133, 339)
+Picture: emoji_83.jpg
+Picture: emoji_830.jpg
+Picture: emoji_831.jpg
+Emoji: crying Coordinates: (403, 127)
+Emoji: sad Coordinates: (719, 536)
+Picture: emoji_832.jpg
+Picture: emoji_833.jpg
+Emoji: sad Coordinates: (477, 277)
+Picture: emoji_834.jpg
+Picture: emoji_835.jpg
+Picture: emoji_836.jpg
+Picture: emoji_837.jpg
+Picture: emoji_838.jpg
+Picture: emoji_839.jpg
+Picture: emoji_84.jpg
+Picture: emoji_840.jpg
+Emoji: crying Coordinates: (679, 301)
+Picture: emoji_841.jpg
+Picture: emoji_842.jpg
+Picture: emoji_843.jpg
+Picture: emoji_844.jpg
+Picture: emoji_845.jpg
+Emoji: crying Coordinates: (427, 509)
+Picture: emoji_846.jpg
+Picture: emoji_847.jpg
+Picture: emoji_848.jpg
+Picture: emoji_849.jpg
+Picture: emoji_85.jpg
+Picture: emoji_850.jpg
+Emoji: crying Coordinates: (596, 359)
+Picture: emoji_851.jpg
+Emoji: sad Coordinates: (267, 529)
+Picture: emoji_852.jpg
+Picture: emoji_853.jpg
+Emoji: crying Coordinates: (728, 281)
+Picture: emoji_854.jpg
+Picture: emoji_855.jpg
+Picture: emoji_856.jpg
+Picture: emoji_857.jpg
+Emoji: sad Coordinates: (717, 242)
+Picture: emoji_858.jpg
+Emoji: crying Coordinates: (577, 21)
+Picture: emoji_859.jpg
+Picture: emoji_86.jpg
+Emoji: crying Coordinates: (735, 176)
+Picture: emoji_860.jpg
+Emoji: crying Coordinates: (564, 82)
+Picture: emoji_861.jpg
+Emoji: sad Coordinates: (426, 469)
+Picture: emoji_862.jpg
+Picture: emoji_863.jpg
+Emoji: surprised Coordinates: (92, 280)
+Picture: emoji_864.jpg
+Emoji: crying Coordinates: (366, 9)
+Picture: emoji_865.jpg
+Picture: emoji_866.jpg
+Picture: emoji_867.jpg
+Picture: emoji_868.jpg
+Picture: emoji_869.jpg
+Emoji: crying Coordinates: (579, 92)
+Picture: emoji_87.jpg
+Picture: emoji_870.jpg
+Emoji: crying Coordinates: (714, 404)
+Picture: emoji_871.jpg
+Picture: emoji_872.jpg
+Picture: emoji_873.jpg
+Emoji: crying Coordinates: (465, 213)
+Picture: emoji_874.jpg
+Emoji: crying Coordinates: (522, 429)
+Picture: emoji_875.jpg
+Picture: emoji_876.jpg
+Picture: emoji_877.jpg
+Picture: emoji_878.jpg
+Picture: emoji_879.jpg
+Picture: emoji_88.jpg
+Emoji: crying Coordinates: (638, 6)
+Picture: emoji_880.jpg
+Emoji: crying Coordinates: (694, 244)
+Picture: emoji_881.jpg
+Emoji: crying Coordinates: (87, 447)
+Picture: emoji_882.jpg
+Picture: emoji_883.jpg
+Picture: emoji_884.jpg
+Picture: emoji_885.jpg
+Picture: emoji_886.jpg
+Picture: emoji_887.jpg
+Emoji: surprised Coordinates: (197, 109)
+Picture: emoji_888.jpg
+Picture: emoji_889.jpg
+Picture: emoji_89.jpg
+Picture: emoji_890.jpg
+Picture: emoji_891.jpg
+Picture: emoji_892.jpg
+Picture: emoji_893.jpg
+Picture: emoji_894.jpg
+Picture: emoji_895.jpg
+Picture: emoji_896.jpg
+Emoji: sad Coordinates: (644, 526)
+Picture: emoji_897.jpg
+Picture: emoji_898.jpg
+Picture: emoji_899.jpg
+Emoji: crying Coordinates: (462, 492)
+Picture: emoji_9.jpg
+Picture: emoji_90.jpg
+Picture: emoji_900.jpg
+Emoji: crying Coordinates: (375, 317)
+Picture: emoji_901.jpg
+Picture: emoji_902.jpg
+Picture: emoji_903.jpg
+Picture: emoji_904.jpg
+Emoji: crying Coordinates: (605, 5)
+Picture: emoji_905.jpg
+Emoji: sad Coordinates: (496, 114)
+Picture: emoji_906.jpg
+Picture: emoji_907.jpg
+Picture: emoji_908.jpg
+Picture: emoji_909.jpg
+Emoji: crying Coordinates: (242, 63)
+Picture: emoji_91.jpg
+Emoji: sad Coordinates: (390, 43)
+Picture: emoji_910.jpg
+Emoji: surprised Coordinates: (102, 510)
+Picture: emoji_911.jpg
+Picture: emoji_912.jpg
+Emoji: angry Coordinates: (47, 58)
+Picture: emoji_913.jpg
+Picture: emoji_914.jpg
+Picture: emoji_915.jpg
+Picture: emoji_916.jpg
+Picture: emoji_917.jpg
+Picture: emoji_918.jpg
+Picture: emoji_919.jpg
+Picture: emoji_92.jpg
+Emoji: sad Coordinates: (215, 234)
+Picture: emoji_920.jpg
+Emoji: crying Coordinates: (0, 275)
+Picture: emoji_921.jpg
+Picture: emoji_922.jpg
+Picture: emoji_923.jpg
+Picture: emoji_924.jpg
+Emoji: sad Coordinates: (530, 349)
+Picture: emoji_925.jpg
+Emoji: sad Coordinates: (300, 36)
+Picture: emoji_926.jpg
+Picture: emoji_927.jpg
+Emoji: sad Coordinates: (642, 287)
+Picture: emoji_928.jpg
+Picture: emoji_929.jpg
+Picture: emoji_93.jpg
+Picture: emoji_930.jpg
+Picture: emoji_931.jpg
+Emoji: sad Coordinates: (537, 287)
+Picture: emoji_932.jpg
+Picture: emoji_933.jpg
+Picture: emoji_934.jpg
+Picture: emoji_935.jpg
+Picture: emoji_936.jpg
+Picture: emoji_937.jpg
+Emoji: crying Coordinates: (482, 23)
+Picture: emoji_938.jpg
+Picture: emoji_939.jpg
+Picture: emoji_94.jpg
+Picture: emoji_940.jpg
+Picture: emoji_941.jpg
+Picture: emoji_942.jpg
+Emoji: sad Coordinates: (401, 500)
+Picture: emoji_943.jpg
+Picture: emoji_944.jpg
+Emoji: angry Coordinates: (335, 293)
+Picture: emoji_945.jpg
+Emoji: sad Coordinates: (27, 457)
+Picture: emoji_946.jpg
+Picture: emoji_947.jpg
+Picture: emoji_948.jpg
+Picture: emoji_949.jpg
+Picture: emoji_95.jpg
+Picture: emoji_950.jpg
+Picture: emoji_951.jpg
+Emoji: crying Coordinates: (371, 237)
+Picture: emoji_952.jpg
+Picture: emoji_953.jpg
+Picture: emoji_954.jpg
+Picture: emoji_955.jpg
+Emoji: crying Coordinates: (603, 481)
+Picture: emoji_956.jpg
+Picture: emoji_957.jpg
+Picture: emoji_958.jpg
+Emoji: crying Coordinates: (143, 528)
+Picture: emoji_959.jpg
+Emoji: angry Coordinates: (3, 203)
+Picture: emoji_96.jpg
+Picture: emoji_960.jpg
+Emoji: sad Coordinates: (420, 11)
+Picture: emoji_961.jpg
+Emoji: crying Coordinates: (116, 429)
+Picture: emoji_962.jpg
+Emoji: crying Coordinates: (403, 27)
+Picture: emoji_963.jpg
+Picture: emoji_964.jpg
+Picture: emoji_965.jpg
+Picture: emoji_966.jpg
+Picture: emoji_967.jpg
+Picture: emoji_968.jpg
+Picture: emoji_969.jpg
+Picture: emoji_97.jpg
+Emoji: crying Coordinates: (137, 425)
+Picture: emoji_970.jpg
+Picture: emoji_971.jpg
+Emoji: crying Coordinates: (274, 402)
+Picture: emoji_972.jpg
+Picture: emoji_973.jpg
+Picture: emoji_974.jpg
+Picture: emoji_975.jpg
+Picture: emoji_976.jpg
+Emoji: crying Coordinates: (349, 476)
+Picture: emoji_977.jpg
+Picture: emoji_978.jpg
+Picture: emoji_979.jpg
+Emoji: crying Coordinates: (198, 334)
+Picture: emoji_98.jpg
+Picture: emoji_980.jpg
+Picture: emoji_981.jpg
+Emoji: sad Coordinates: (502, 441)
+Picture: emoji_982.jpg
+Picture: emoji_983.jpg
+Picture: emoji_984.jpg
+Emoji: crying Coordinates: (492, 331)
+Picture: emoji_985.jpg
+Picture: emoji_986.jpg
+Emoji: crying Coordinates: (16, 367)
+Picture: emoji_987.jpg
+Picture: emoji_988.jpg
+Picture: emoji_989.jpg
+Picture: emoji_99.jpg
+Picture: emoji_990.jpg
+Picture: emoji_991.jpg
+Picture: emoji_992.jpg
+Picture: emoji_993.jpg
+Picture: emoji_994.jpg
+Picture: emoji_995.jpg
+Picture: emoji_996.jpg
+Picture: emoji_997.jpg
+Picture: emoji_998.jpg
+Picture: emoji_999.jpg
