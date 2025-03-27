@@ -32,32 +32,14 @@ def best_matches(matches):
     return keep
 
 
-
-# def find_area_of_interest_and_match(img_path):
-#     """ only works for non-bonus imgs """
-#     img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
-#     ret, thresh = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY_INV)
-
-#     contours, _ = cv2.findContours(
-#         thresh,
-#         cv2.RETR_TREE,
-#         cv2.CHAIN_APPROX_SIMPLE
-#     )
-
-#     contour = max(contours, key=cv2.contourArea)
-
-#     x, y, w, h = cv2.boundingRect(contour)
-#     crop = img[y:y + h, x:x + w]
-#     cv2.resize(crop, )
-
-
 def template_matcher(img, template, rotate=False):
     """ uses match template to find template inside image.
-     
+
       uses normalized cross-coefficient method as it seems to work best for
       mostly binary images
-      
-      when rotate is used, rotate in region of interest found from original match
+
+      when rotate is used, rotate in region of interest found from original
+      match.
       if rotation creates better score than base, use rotated result"""
     base_result = cv2.matchTemplate(img, template, cv2.TM_CCOEFF_NORMED)
     best_score = np.max(base_result)
@@ -66,12 +48,12 @@ def template_matcher(img, template, rotate=False):
     if rotate is True:
         min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(base_result)
         match_x, match_y = max_loc
-        
+
         # only focus on found area
         h, w = template.shape
         roi = img[max(0, match_y-h//2):min(img.shape[0], match_y+h*3//2),
                   max(0, match_x-w//2):min(img.shape[1], match_x+w*3//2)]
-        
+
         if roi.size > 0:  # Check if ROI is valid
             # Check rotations only on ROI
             for angle in range(-45, 46, 5):
@@ -79,11 +61,11 @@ def template_matcher(img, template, rotate=False):
                 rotation_matrix = cv2.getRotationMatrix2D(center, angle, 1.0)
                 rotated = cv2.warpAffine(roi, rotation_matrix,
                                          (roi.shape[1], roi.shape[0]))
-                
+
                 res = cv2.matchTemplate(rotated, template,
                                         cv2.TM_CCOEFF_NORMED)
                 score = np.max(res)
-                
+
                 if score > best_score:
                     best_score = score
                     # Keep original result for coordinates
@@ -114,7 +96,8 @@ def emoji_templates():
 
 
 def preprocess_image(img_path):
-    """ uses adaptive threshold to hopefully clean up image for match searching """
+    """ uses adaptive threshold to hopefully clean up image for match
+    searching """
     img = cv2.imread(str(img_path), cv2.IMREAD_GRAYSCALE)
     img = cv2.adaptiveThreshold(
             img,
@@ -127,10 +110,6 @@ def preprocess_image(img_path):
                                    h=5,  # Filter strength (5-30)
                                    templateWindowSize=7,  # Template patch size
                                    searchWindowSize=21)  # Search window size
-    # cv2.imshow("noise", img)
-    # cv2.waitKey(0)
-    # cv2.destroyAllWindows()
-
     return img
 
 
@@ -155,29 +134,20 @@ def implementation_main():
      uses template matching to find possible emojis, and removes
      potential duplicates.
       prints image name and best found emotion and it's position on image. """
+
     args = parser()
     labels_path = pathlib.Path(args.labels)
-
     data_dir = labels_path.parent / "dataset"
-
-
-    # preprocess_image("data/train/dataset/emoji_1000.jpg")
-    # return
-
     templates = emoji_templates()
     threshold = args.threshold
 
-    # print(f"files found: {len(list(data_dir.glob('*.jpg')))}")
     limit = 0
     for img_path in list(data_dir.glob('*.jpg')):
         img = preprocess_image(img_path)
-        if not args.bonus:
-            img = find_area_of_interest_and_match(img_path)
 
         results = []
         for name, template in templates.items():
-            res, _ = template_matcher(img, template, args.rotate, args.bonus)
-
+            res, _ = template_matcher(img, template, args.rotate)
             locs = np.where(res >= threshold)
 
             for y, x in zip(*locs):
@@ -196,3 +166,27 @@ def implementation_main():
 
 if __name__ == "__main__":
     implementation_main()
+
+
+# def find_area_of_interest_and_match(img_path, template_size):
+#     """ only works for non-bonus imgs """
+#     img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
+#     ret, thresh = cv2.threshold(img, 200, 255, cv2.THRESH_BINARY_INV)
+
+#     contours, _ = cv2.findContours(
+#         thresh,
+#         cv2.RETR_TREE,
+#         cv2.CHAIN_APPROX_SIMPLE
+#     )
+
+#     contour = max(contours, key=cv2.contourArea)
+
+#     x, y, w, h = cv2.boundingRect(contour)
+#     crop = img[y:y + h, x:x + w]
+#     new_img = cv2.resize(crop, template_size)
+
+#     cv2.imshow("crop", new_img)
+#     cv2.waitKey(0)
+#     cv2.destroyAllWindows()
+
+#     return new_img
