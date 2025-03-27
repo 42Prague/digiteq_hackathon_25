@@ -24,6 +24,7 @@ def parse_standard_output(captured_output):
     x_s = []
     y_s = []
     predictions = pd.DataFrame(columns=["file_name", "moods_pred", "x_s_pred", "y_s_pred"])
+    pictures_history = set()
     for line in captured_string:
         line_source = line
         line = line.split(" ")
@@ -32,6 +33,9 @@ def parse_standard_output(captured_output):
                 if len(moods) > 0:
                     predictions = add_one_line(predictions, file_name, moods, x_s, y_s)
                 file_name = line[1]
+                if file_name in pictures_history:
+                    raise RuntimeError(f"Picture name {file_name} appeared more than once in your output!")
+                pictures_history.add(file_name)
                 moods = []
                 x_s = []
                 y_s = []
