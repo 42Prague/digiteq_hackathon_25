@@ -1,13 +1,38 @@
 import cv2
 import numpy as np
 
+def find_multiple_instances(base_kp, test_kp, good_matches, min_matches=4, max_instances=10):
+    instances = []
+    working_matches = good_matches.copy()
+    
+    for i in range(max_instances):
+        if len(working_matches) < min_matches:
+            break
+            
+        src_pts = np.float32([base_kp[m.queryIdx].pt for m in working_matches]).reshape(-1, 2)
+        dst_pts = np.float32([test_kp[m.trainIdx].pt for m in working_matches]).reshape(-1, 2)
+        
+        M, mask = cv2.findHomography(src_pts, dst_pts, cv2.RANSAC, 5.0)
+        if M is None:
+            break
+            
+        inliers = [working_matches[i] for i in range(len(working_matches)) if mask[i][0] > 0]
+        
+        if len(inliers) >= min_matches:
+            instances.append((M, inliers))
+            
+            inlier_indices = set([m.trainIdx for m in inliers])
+            working_matches = [m for m in working_matches if m.trainIdx not in inlier_indices]
+    
+    return instances
+
 def loop_main(X):
     try:
         emoji_names = ['angry', 'crying', 'happy', 'sad', 'surprised']
         base_emojis = [cv2.imread(f'data/emojis/{emoji}.jpg', cv2.IMREAD_GRAYSCALE) 
                     for emoji in emoji_names]
-
-        test_image = cv2.imread(f'data/train/dataset/emoji_{X}.jpg', cv2.IMREAD_GRAYSCALE)
+        
+        test_image = cv2.imread(f'data/validation/dataset/emoji_{X}.jpg', cv2.IMREAD_GRAYSCALE)
         if test_image is None:
             print(f"FATAL ERROR: NO SUCH IMAGE")
             return
@@ -23,47 +48,59 @@ def loop_main(X):
 
         test_keypoints, test_descriptors = sift.detectAndCompute(test_image, None)
         if test_descriptors is None:
-            # print(f"Picture: emoji_{X}.jpg\nFAILURE: No features found in image")
             return
 
-        bf = cv2.BFMatcher(cv2.NORM_L2, crossCheck=True)
+        FLANN_INDEX_KDTREE = 1
+        index_params = dict(algorithm=FLANN_INDEX_KDTREE, trees=5)
+        search_params = dict(checks=50)
+        flann = cv2.FlannBasedMatcher(index_params, search_params)
+        
         print(f"Picture: emoji_{X}.jpg")
 
         for i, des in enumerate(base_descriptors):
+            if des is None or len(des) < 2: 
+                continue
+                
             try:
-                matches = bf.match(des, test_descriptors)
-                matches = sorted(matches, key=lambda x: x.distance)
-
-                if len(matches) > 10:
-                    src_pts = np.float32([base_keypoints[i][m.queryIdx].pt for m in matches]).reshape(-1, 2)
-                    dst_pts = np.float32([test_keypoints[m.trainIdx].pt for m in matches]).reshape(-1, 2)
-
-                    M, mask = cv2.findHomography(src_pts, dst_pts, cv2.RANSAC, 5.0)
-                    if M is None:
-                        continue
-
-                    h, w = base_emojis[i].shape
-                    pts = np.float32([[0, 0], [0, h-1], [w-1, h-1], [w-1, 0]]).reshape(-1, 1, 2)
-                    dst = cv2.perspectiveTransform(pts, M)
-
-                    x = int(min(dst[0][0][0], dst[1][0][0], dst[2][0][0], dst[3][0][0]))
-                    y = int(min(dst[0][0][1], dst[1][0][1], dst[2][0][1], dst[3][0][1]))
+                matches = flann.knnMatch(des, test_descriptors, k=2)
+                
+                good_matches = []
+                for match_pair in matches:
+                    if len(match_pair) == 2:
+                        m, n = match_pair
+                        if m.distance < 0.7 * n.distance:
+                            good_matches.append(m)
+                
+                if len(good_matches) >= 4:
+                    instances = find_multiple_instances(
+                        base_keypoints[i], test_keypoints, good_matches, min_matches=4
+                    )
                     
-                    if -1000 < x < 1000 and -1000 < y < 1000:  # Basic sanity check
-                        print(f"Emoji: {emoji_names[i]} Coordinates: ({x}, {y})")
+                    for idx, (M, inliers) in enumerate(instances):
+                        h, w = base_emojis[i].shape
+                        pts = np.float32([[0, 0], [0, h-1], [w-1, h-1], [w-1, 0]]).reshape(-1, 1, 2)
+                        dst = cv2.perspectiveTransform(pts, M)
+
+                        x = int(min(dst[0][0][0], dst[1][0][0], dst[2][0][0], dst[3][0][0]))
+                        y = int(min(dst[0][0][1], dst[1][0][1], dst[2][0][1], dst[3][0][1]))
+                        
+                        if -1000 < x < 1000 and -1000 < y < 1000:
+                            print(f"Emoji: {emoji_names[i]} Coordinates: ({x}, {y})")
                     
             except cv2.error:
                 continue
             except Exception as e:
                 continue
-                # print(f"FAILURE: Error processing {emoji_names[i]} - {str(e)}")
 
     except Exception as e:
         print(f"Picture: emoji_{X}.jpg\nFAILURE: {str(e)}")
 
 def implementation_main():
-    for x in range(0, 1121):  # Changed to start from 0 and include 1120
-        loop_main(x)
+    for x in range(0, 281):
+        if x == 111:
+            continue
+        else:
+            loop_main(x)
 
 if __name__ == "__main__":
     implementation_main()
